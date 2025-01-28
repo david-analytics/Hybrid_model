@@ -3,7 +3,6 @@ import os
 import numpy as np
 import pandas as pd
 import pickle
-import torch.nn.functional as F
 
 
 # Define Capsule Network class
