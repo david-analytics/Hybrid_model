@@ -3,11 +3,8 @@ import os
 import numpy as np
 import pandas as pd
 import pickle
-from sklearn.preprocessing import LabelEncoder
 from torch import nn
 import torch.nn.functional as F
-
-import torch
 
 
 # Define Capsule Network class
