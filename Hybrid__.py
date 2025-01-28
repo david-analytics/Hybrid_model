@@ -2,7 +2,6 @@ import streamlit as st
 import os
 import numpy as np
 import pandas as pd
-import cv2
 import pickle
 from sklearn.preprocessing import LabelEncoder
 from torch import nn
